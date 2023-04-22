@@ -1,123 +1,30 @@
----
-layout: default
----
+# Medium . Permeation
+Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+After collecting the web imagination of global citizens about COVID_19, we trained the generative model and let the computer randomly synthesize it. We adjusted various parameters during the training process making the results such as Dou Jia, Monet, Renoir , their style paintings.
 
-[Link to another page](./another-page.html).
+Through this work the diffusion path of COVID_19 spreading the molecular of the virus through the air, just like the scattering phenomenon formed by light through the particles in the air. Color is exclusive to the humans’ world, and COVID_19 is also born with humans.
 
-There should be whitespace between paragraphs.
+The colorful world we see in this work represents the equality of races on the earth. The array of 196 pictures represents 196 countries were invaded by the COVID_19. As human beings, none of us are spared from this disaster.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Statement
+[![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=1WShAvQeCuWsfFyr6aiBVgsL-Oki0VL2W)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
-# Header 1
+## Artwork
+<img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oWi11S6MvdDFTmNUSesZZxulN7utEXWR" width="50%">
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Gradual Change
+[![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
 
 
-### Definition lists can be used with HTML syntax.
+## Authors
+### YuanFu Yang (楊元福)
+#### International collegiate PHD program student in National Tsing Hua University, TW.
+#### Data Scientist / tsmc
+Born in Taipei, Taiwan in 1979. Yang is the Ph.D. student at National Tsing Hua University for his research on Artificial Intelligence (AI) to enhance human creativity. He joined Taiwan Semiconductor Manufacturing Company in 2006. Yang conducts research and production across fields such as defect inspection and yield prediction using deep learning techniques. Yang, himself, has been exploring the potential expansion of painting creativity through the AI and human experts.
+### Iuan Kai Fang (房元凱)
+#### International collegiate PHD program student in National Tsing Hua University, TW.
+#### Master degree in lighting design from Parsons School of Design, NY. The other’s in interior design from Chung Yuan University, TW.
+He has been engaged in interior design for nearly 20 years. His works have won numerous awards including Red Dot ,IF,etc. However, he just started to touch the field of AI Art . Currently, he is studying the technology of 2D single image automatic generates to a 3D model.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<img style="float: left;" src="./image/authors.jpg" width="30%">
