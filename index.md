@@ -13,7 +13,7 @@ The colorful world we see in this work represents the equality of races on the e
 ## Generative Model: Self-Attention GAN
 The proposed art-generating model is realized by a model called Self-Attention Generative Adversarial Network (SAGAN). GANs consists of two adversarial models: a generative model G and a discriminative model D. Generator captures the data distribution, and Discriminator estimates the probability that a sample came from the training data rather than Generator. Both Generator and Discriminator are trained simultaneously. 
 
-<img style="float: left;" src="./image/SAGAN.png" width="30%">
+<img style="float: left;" src="./image/SAGAN.png" width="100%">
 
 
 
