@@ -1,6 +1,6 @@
 # Medium . Permeation
 ## SARS-COV-2 Painting Creation by Generative Model
-[Paper](https://arxiv.org/abs/2211.03418) | [Project Page](https://yfyangd.github.io/CVPR2023/) | [Vedio](https://youtu.be/wPNgvnJZGCE) | [Code]()
+[Paper](https://arxiv.org/submit/4856710/view) | [Project Page](https://yfyangd.github.io/CVPR2023/) | [Vedio](https://youtu.be/wPNgvnJZGCE) | [Code]()
 
 Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.
 
