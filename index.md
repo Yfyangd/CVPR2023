@@ -1,11 +1,11 @@
 # Medium . Permeation
 Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.
 
-After collecting the web imagination of global citizens about COVID_19, we trained the generative model and let the computer randomly synthesize it. We adjusted various parameters during the training process making the results such as Dou Jia, Monet, Renoir , their style paintings.
+After collecting the web imagination of global citizens about SARS-COV-2, we trained the generative model and let the computer randomly synthesize it. We adjusted various parameters during the training process making the results such as Dou Jia, Monet, Renoir , their style paintings.
 
-Through this work the diffusion path of COVID_19 spreading the molecular of the virus through the air, just like the scattering phenomenon formed by light through the particles in the air. Color is exclusive to the humans’ world, and COVID_19 is also born with humans.
+Through this work the diffusion path of SARS-COV-2 spreading the molecular of the virus through the air, just like the scattering phenomenon formed by light through the particles in the air. Color is exclusive to the humans’ world, and COVID_19 is also born with humans.
 
-The colorful world we see in this work represents the equality of races on the earth. The array of 196 pictures represents 196 countries were invaded by the COVID_19. As human beings, none of us are spared from this disaster.
+The colorful world we see in this work represents the equality of races on the earth. The array of 196 pictures represents 196 countries were invaded by the SARS-COV-2. As human beings, none of us are spared from this disaster.
 
 ## Statement
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=1WShAvQeCuWsfFyr6aiBVgsL-Oki0VL2W)](https://www.youtube.com/embed/QZXdjV6TTPc)
