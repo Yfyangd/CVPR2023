@@ -19,9 +19,7 @@ The proposed art-generating model is realized by a model called Self-Attention G
 ## Self-Attention
 For each query location, self-attention block calculates the pairwise relationship between the query location and all locations to form an attention map, and then aggregates the features of all positions through the weighted sum with the weights defined by the attention map. Finally, the aggregated features are added to the features of each query position to form the output. The basic self-attention architecture is shown in the following formula: 
 
-```md
-$$m_i=\sum_{j=r(i)}\alpha (x_i,x_j) \bigodot \beta (x_j)$$
-```
+$$ m_i=\sum_{j=r(i)}\alpha (x_i,x_j) \bigodot \beta (x_j) $$
 
 <img style="float: left;" src="./image/SelfAttention.png" width="100%">
 
