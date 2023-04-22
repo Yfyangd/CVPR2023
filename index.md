@@ -1,4 +1,5 @@
 # Medium . Permeation
+## SARS-COV-2 Painting Creation by Generative Model
 Impressionism expressed the scientific meaning of "light" in artistic creation. The light color reflected by the luminous flux through the medium in the air became the concept of impressionists’ creation.
 
 After collecting the web imagination of global citizens about SARS-COV-2, we trained the generative model and let the computer randomly synthesize it. We adjusted various parameters during the training process making the results such as Dou Jia, Monet, Renoir , their style paintings.
