@@ -10,10 +10,22 @@ The colorful world we see in this work represents the equality of races on the e
 ## Statement
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=1WShAvQeCuWsfFyr6aiBVgsL-Oki0VL2W)](https://www.youtube.com/embed/QZXdjV6TTPc)
 
+## Generative Model: Self-Attention GAN
+The proposed art-generating model is realized by a model called Self-Attention Generative Adversarial Network (SAGAN). GANs consists of two adversarial models: a generative model G and a discriminative model D. Generator captures the data distribution, and Discriminator estimates the probability that a sample came from the training data rather than Generator. Both Generator and Discriminator are trained simultaneously. 
+
+<img style="float: left;" src="./image/SAGAN.png" width="30%">
+
+
+
+
 ## Artwork
+123
+
 <img style="float: left;" src="https://drive.google.com/uc?export=view&id=1oWi11S6MvdDFTmNUSesZZxulN7utEXWR" width="50%">
 
 ## Gradual Change
+123
+
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
 
 
